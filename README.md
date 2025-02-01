@@ -1,2 +1,2 @@
 # ML-GenAI
-Author - Swapnil Salunke
+Author - Swapnil Salunke (Accenture)
